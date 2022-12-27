@@ -1,1 +1,1 @@
-Behavior driven development (BDD) approach to write automation test scripts to test web applications.
+Behavior driven development (BDD) approach to script test cases for the web/mobile applications
